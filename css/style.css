@@ -533,7 +533,7 @@ a{
     width: 320px;
     max-height: 0;
     overflow: hidden;
-    transition: max-height 0.5s;
+    transition: all 0.5s;
 }
 .profile-menu-wrap.open-menu{
     max-height: 400px;
